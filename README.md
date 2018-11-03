@@ -1,2 +1,3 @@
 # Bocha
-Bocha game made in Unreal Engine 4.18
+Bocha game for GearVR, made in Unreal Engine 4.18
+
